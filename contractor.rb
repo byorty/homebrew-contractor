@@ -8,8 +8,4 @@ class Contractor < Formula
   def install
     bin.install "contractor"
   end
-
-  test do
-    system "false"
-  end
 end
