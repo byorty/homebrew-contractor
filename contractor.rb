@@ -1,8 +1,8 @@
 class Contractor < Formula
   homepage "https://github.com/byorty/contractor"
   desc "Reads the description document and generates test cases that will ensure that your application is compliant with its description"
-  url "https://github.com/byorty/contractor/releases/download/0.0.35/contractor_0.0.35_darwin_amd64.tar.gz"
-  sha256 "483e5bfc89e7f7e10dcc83ca2f472bf9389f8a0a0bf0a5baf40dd0a0dea64f15"
+  url "https://github.com/byorty/contractor/releases/download/0.0.36/contractor_0.0.36_darwin_amd64.tar.gz"
+  sha256 "386d37326ea940ee62ac38d6b672cfee438320d0afbc9edd2f13ebfb1e44bf00"
   license "MIT"
 
   def install
